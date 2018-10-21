@@ -1,2 +1,6 @@
-nz/ac/uo/Application.class
-HomeController.class
+demo/controller/StudentController.class
+demo/Application.class
+demo/service/IStudentService.class
+demo/repository/StudentRepository.class
+demo/model/Student.class
+demo/service/StudentService.class
