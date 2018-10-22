@@ -2,5 +2,6 @@
 /home/alfredjava/proj/tp_jsbwm_jpah2/src/main/java/demo/repository/StudentRepository.java
 /home/alfredjava/proj/tp_jsbwm_jpah2/src/main/java/demo/service/IStudentService.java
 /home/alfredjava/proj/tp_jsbwm_jpah2/src/main/java/demo/service/StudentService.java
+/home/alfredjava/proj/tp_jsbwm_jpah2/src/main/java/demo/WebConfig.java
 /home/alfredjava/proj/tp_jsbwm_jpah2/src/main/java/demo/model/Student.java
 /home/alfredjava/proj/tp_jsbwm_jpah2/src/main/java/demo/controller/StudentController.java
